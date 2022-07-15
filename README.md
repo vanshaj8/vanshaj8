@@ -14,4 +14,4 @@
 
 
 [![Vanshaj GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshaj8&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj8&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshaj8&layout=compact&theme=radical)]
