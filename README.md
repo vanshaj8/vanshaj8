@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanshaj Sharma</h1>
 <p align="left"> <a href="https://twitter.com/imvanshaj" target="blank"><img src="https://img.shields.io/twitter/follow/imvanshaj?logo=twitter&style=for-the-badge" alt="imvanshaj" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,**
+- 🌱 I’m currently learning **Javascript,TypeScript,ReactJS**
 
 - 📫 How to reach me **vanshajsharma8@gmail.com**
 
